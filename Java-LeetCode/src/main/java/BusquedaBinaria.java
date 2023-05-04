@@ -5,7 +5,7 @@
 //        Repetir los pasos anteriores hasta que el intervalo quede vacío.
 //
 //Array de datos: datos[] = {11, 23, 30, 50, 60, 80, 115, 130, 140, 170}, x = 115
-//        Salida: 6
+//        Salida:  6
 //        El elemento x se encuentra en la posición 6 del array.
 //
 //        Array de datos: datos[] = {10, 20, 37, 40, 62, 111, 120, 131, 190}, x = 133
